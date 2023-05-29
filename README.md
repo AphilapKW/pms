@@ -25,3 +25,6 @@ Enjoy!!
 
 python manage.py runserver 8001
 
+# unittest
+python manage.py test   
+
