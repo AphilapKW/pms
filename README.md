@@ -2,7 +2,7 @@
 
 
 # set environment
-cd /backend/
+cd /project/
 
 brew install python
 
